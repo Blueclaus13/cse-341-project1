@@ -1,0 +1,16 @@
+{
+  "name": "cse-341-project1",
+  "version": "1.0.0",
+  "description": "project1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Claudia Madrid",
+  "license": "ISC"
+}
