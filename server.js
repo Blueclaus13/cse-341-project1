@@ -11,7 +11,7 @@ mongodb.initDb((err)=>{
     console.log("There is an error: "+ err);
   }else{
     app.listen(PORT, () => {
-      console.log('Web Server is listening at port ' + (PORT));
+      console.log('Database conected and Web Server is listening at port ' + (PORT));
     });
   }
 });
