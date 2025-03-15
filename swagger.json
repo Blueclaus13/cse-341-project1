@@ -5,7 +5,7 @@
     "description": "API to get contacts",
     "version": "1.0.0"
   },
-  "host": "https://project1-h9hz.onrender.com",
+  "host": "project1-h9hz.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
